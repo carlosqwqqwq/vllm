@@ -53,6 +53,7 @@ nav:
       - benchmarking/cli.md
       - benchmarking/sweeps.md
       - benchmarking/dashboard.md
+  - 中文源码导读: zh_cn
   - API Reference:
     - api/README.md
     - api/vllm

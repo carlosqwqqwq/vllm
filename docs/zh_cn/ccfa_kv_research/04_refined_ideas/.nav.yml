@@ -1,0 +1,9 @@
+nav:
+  - README.md
+  - 目录结构与阅读方式: directory_guide.md
+  - TierKV：面向 vLLM 的多级精确 KV 系统: tierkv
+  - AffinityKV：KV 感知路由: affinitykv
+  - QoSKV：低延迟前缀缓存: qoskv
+  - SegmentKV：面向 RAG/Agent 的分段复用: segmentkv
+  - HeteroKV：面向 Hybrid 模型的异构 KV: heterokv
+  - 方案对比与推荐: comparison.md

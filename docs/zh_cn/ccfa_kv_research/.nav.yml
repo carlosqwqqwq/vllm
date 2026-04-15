@@ -1,0 +1,13 @@
+nav:
+  - README.md
+  - vLLM 现状: 01_vllm_status/README.md
+  - GitHub 社区进展: 02_github_progress/README.md
+  - 论文 Idea 与创新点: 03_paper_ideas/README.md
+  - 细化方案与对比: 04_refined_ideas
+  - 调研过程与结果沉淀: 05_research_archive
+  - 第二轮重构后的新候选: 06_reframed_ideas
+  - 第三轮收敛后的最终候选: 07_final_candidates
+  - 第四轮撞车感知后的新方向: 08_collision_aware_new_ideas
+  - 第五轮持续迭代后的新方向: 09_iterative_new_ideas
+  - 第六轮按学术问题重开的新方向: 10_academic_restart_ideas
+  - 第七轮从能力缺口反推的新候选: 11_capability_gap_ideas
