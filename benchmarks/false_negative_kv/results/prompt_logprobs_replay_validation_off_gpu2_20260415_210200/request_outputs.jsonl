@@ -1,0 +1,16 @@
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "0-8f976eec", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "1-ba3a9d97", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "2-b6d0be08", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "3-b9869bf3", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "4-b603645b", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "5-81c07a93", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "6-b2e8c072", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.157357931137085, "request_id": "7-9b5102dd", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "8-9351d874", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "9-bcc4cd41", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "10-a07a601e", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "11-b6ac3a82", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "12-ae0212de", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "13-997e345a", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "14-ba881794", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7520537376403809, "request_id": "15-bc1a7095", "variant": "probe_prompt_logprobs"}

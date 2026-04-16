@@ -1,0 +1,8 @@
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "0-b8d9c5ef", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "1-b7cd84e1", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "2-9412173d", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "3-88e1bb35", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "4-8760ac2c", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "5-a077603b", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "6-8a12eb84", "variant": "probe_generation"}
+{"num_cached_tokens": 1056, "phase": "probe", "phase_wall_time_s": 0.1635572910308838, "request_id": "7-ac8f8030", "variant": "probe_generation"}

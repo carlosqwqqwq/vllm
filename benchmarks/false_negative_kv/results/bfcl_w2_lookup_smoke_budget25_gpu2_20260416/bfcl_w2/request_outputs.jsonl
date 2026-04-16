@@ -1,0 +1,12 @@
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.9195775985717773, "request_id": "0-8ceda17c", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9456, "phase": "warmup", "phase_wall_time_s": 0.9195775985717773, "request_id": "1-bce467da", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9936, "phase": "warmup", "phase_wall_time_s": 0.9195775985717773, "request_id": "2-a0e94ad4", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9792, "phase": "warmup", "phase_wall_time_s": 0.9195775985717773, "request_id": "3-bc3bd24a", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9936, "phase": "control", "phase_wall_time_s": 0.08666396141052246, "request_id": "4-8ee927f4", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9792, "phase": "control", "phase_wall_time_s": 0.08666396141052246, "request_id": "5-9dd94a1a", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9952, "phase": "control", "phase_wall_time_s": 0.08666396141052246, "request_id": "6-929ddc00", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9824, "phase": "control", "phase_wall_time_s": 0.08666396141052246, "request_id": "7-89127479", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "treatment", "phase_wall_time_s": 3.965799570083618, "request_id": "8-b07c7057", "variant": "treatment_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "treatment", "phase_wall_time_s": 3.965799570083618, "request_id": "9-bd847c2b", "variant": "treatment_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "treatment", "phase_wall_time_s": 3.965799570083618, "request_id": "10-989bb921", "variant": "treatment_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "treatment", "phase_wall_time_s": 3.965799570083618, "request_id": "11-9d7416a0", "variant": "treatment_prompt_logprobs"}

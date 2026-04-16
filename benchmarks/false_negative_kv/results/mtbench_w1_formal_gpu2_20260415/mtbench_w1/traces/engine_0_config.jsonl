@@ -1,0 +1,1 @@
+{"attention_backend": "None", "batch_invariant": false, "block_size": 16, "enable_backend_mismatch_route": false, "enable_family_binding": false, "enable_prefix_caching": true, "enable_twin_path_serve": false, "engine_index": 0, "prefix_caching_disable_reason": null, "runner_type": "generate", "ts": 1776264100.7484837}

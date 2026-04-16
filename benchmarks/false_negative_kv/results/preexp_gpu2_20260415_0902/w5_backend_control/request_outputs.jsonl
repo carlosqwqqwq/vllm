@@ -1,0 +1,16 @@
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "0-b70288cd", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "1-a226c314", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "2-8dba4c13", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "3-97135696", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "4-9e49aadf", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "5-a9fc867a", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "6-95fdc174", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13700652122497559, "request_id": "7-aba77a97", "variant": "warmup_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "8-af4e3704", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "9-aebd5a9e", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "10-bf6f2252", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "11-b5fada6c", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "12-b09e7703", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "13-8371b070", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "14-b25542a1", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.04653120040893555, "request_id": "15-92cc26b2", "variant": "control_generation"}

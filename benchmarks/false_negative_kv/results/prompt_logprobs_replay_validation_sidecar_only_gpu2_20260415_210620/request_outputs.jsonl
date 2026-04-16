@@ -1,0 +1,16 @@
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "0-8a1046da", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "1-9c006fe3", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "2-b32294c8", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "3-830fc8fc", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "4-8b44f6d9", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "5-aedfbe30", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "6-8e15d662", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 1.1883468627929688, "request_id": "7-988b062b", "variant": "seed_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "8-b65745b3", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "9-8a3ea587", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "10-b0fe38ec", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "11-84374dd4", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "12-a98b2d3a", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "13-82b08bed", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "14-87cd6c3c", "variant": "probe_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "probe", "phase_wall_time_s": 0.7954230308532715, "request_id": "15-a537de58", "variant": "probe_prompt_logprobs"}

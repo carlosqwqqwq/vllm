@@ -1,0 +1,6 @@
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.13728857040405273, "request_id": "0", "variant": "warmup_generation"}
+{"num_cached_tokens": 1056, "phase": "warmup", "phase_wall_time_s": 0.13728857040405273, "request_id": "1", "variant": "warmup_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.07639384269714355, "request_id": "2", "variant": "control_generation"}
+{"num_cached_tokens": 1072, "phase": "control", "phase_wall_time_s": 0.07639384269714355, "request_id": "3", "variant": "control_generation"}
+{"num_cached_tokens": 0, "phase": "treatment", "phase_wall_time_s": 1.237191915512085, "request_id": "4", "variant": "treatment_prompt_logprobs"}
+{"num_cached_tokens": 0, "phase": "treatment", "phase_wall_time_s": 1.237191915512085, "request_id": "5", "variant": "treatment_prompt_logprobs"}

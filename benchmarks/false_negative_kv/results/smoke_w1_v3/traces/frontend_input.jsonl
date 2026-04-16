@@ -1,0 +1,6 @@
+{"api_contract_class": "generation", "carrier_type": "tokens", "has_cache_salt": false, "has_prompt_embeds": false, "num_mm_items": 0, "prompt_tokens": 1087, "request_id": "0", "ts": 1776243651.1723192}
+{"api_contract_class": "generation", "carrier_type": "tokens", "has_cache_salt": false, "has_prompt_embeds": false, "num_mm_items": 0, "prompt_tokens": 1087, "request_id": "1", "ts": 1776243651.1770391}
+{"api_contract_class": "generation", "carrier_type": "tokens", "has_cache_salt": false, "has_prompt_embeds": false, "num_mm_items": 0, "prompt_tokens": 1087, "request_id": "2", "ts": 1776243651.3229494}
+{"api_contract_class": "generation", "carrier_type": "tokens", "has_cache_salt": false, "has_prompt_embeds": false, "num_mm_items": 0, "prompt_tokens": 1087, "request_id": "3", "ts": 1776243651.3307781}
+{"api_contract_class": "prompt_logprobs", "carrier_type": "tokens", "has_cache_salt": false, "has_prompt_embeds": false, "num_mm_items": 0, "prompt_tokens": 1087, "request_id": "4", "ts": 1776243651.4149914}
+{"api_contract_class": "prompt_logprobs", "carrier_type": "tokens", "has_cache_salt": false, "has_prompt_embeds": false, "num_mm_items": 0, "prompt_tokens": 1087, "request_id": "5", "ts": 1776243651.4216}

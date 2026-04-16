@@ -1,0 +1,8 @@
+step	status	exit_code	started_at	ended_at	log_path
+preflight_bfcl_w2_full_replay_256	ok	0	2026-04-16T02:10:01+00:00	2026-04-16T02:10:55+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/preflight_bfcl_w2_full_replay_256.log
+bfcl_w2_off	ok	0	2026-04-16T02:10:55+00:00	2026-04-16T02:12:58+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/bfcl_w2_off.log
+bfcl_w2_sidecar_only	ok	0	2026-04-16T02:12:58+00:00	2026-04-16T02:15:49+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/bfcl_w2_sidecar_only.log
+bfcl_w2_budget25	ok	0	2026-04-16T02:15:49+00:00	2026-04-16T02:18:41+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/bfcl_w2_budget25.log
+bfcl_w2_budget64	ok	0	2026-04-16T02:18:41+00:00	2026-04-16T02:21:18+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/bfcl_w2_budget64.log
+bfcl_w2_budget128	ok	0	2026-04-16T02:21:18+00:00	2026-04-16T02:23:42+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/bfcl_w2_budget128.log
+bfcl_w2_budget256	ok	0	2026-04-16T02:23:42+00:00	2026-04-16T02:26:03+00:00	/data/projects/KVresearch/vllm/benchmarks/false_negative_kv/results/bfcl_w2_seedfix_full_gpu2_20260416_1010/logs/bfcl_w2_budget256.log

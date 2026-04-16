@@ -1,0 +1,16 @@
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.9377927780151367, "request_id": "0-8a0ce0a6", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9456, "phase": "warmup", "phase_wall_time_s": 0.9377927780151367, "request_id": "1-8cd350aa", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9936, "phase": "warmup", "phase_wall_time_s": 0.9377927780151367, "request_id": "2-a5140737", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9792, "phase": "warmup", "phase_wall_time_s": 0.9377927780151367, "request_id": "3-86f0a379", "variant": "warmup_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9936, "phase": "control", "phase_wall_time_s": 0.10566902160644531, "request_id": "4-8a3366e2", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9792, "phase": "control", "phase_wall_time_s": 0.10566902160644531, "request_id": "5-9e419c1e", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9952, "phase": "control", "phase_wall_time_s": 0.10566902160644531, "request_id": "6-a91e6267", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9824, "phase": "control", "phase_wall_time_s": 0.10566902160644531, "request_id": "7-a43bbef7", "variant": "control_generation"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 4.019550800323486, "request_id": "8-8cb393c7", "variant": "sidecar_seed_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 4.019550800323486, "request_id": "9-9eeec402", "variant": "sidecar_seed_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 4.019550800323486, "request_id": "10-b43c60fb", "variant": "sidecar_seed_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 0, "phase": "seed", "phase_wall_time_s": 4.019550800323486, "request_id": "11-99867de2", "variant": "sidecar_seed_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9920, "phase": "treatment", "phase_wall_time_s": 1.0132336616516113, "request_id": "12-bf5d9eec", "variant": "treatment_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9776, "phase": "treatment", "phase_wall_time_s": 1.0132336616516113, "request_id": "13-aa1ee3a7", "variant": "treatment_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9936, "phase": "treatment", "phase_wall_time_s": 1.0132336616516113, "request_id": "14-b2c08511", "variant": "treatment_prompt_logprobs"}
+{"finish_reason": "length", "generated_tokens": 1, "num_cached_tokens": 9808, "phase": "treatment", "phase_wall_time_s": 1.0132336616516113, "request_id": "15-b8be535d", "variant": "treatment_prompt_logprobs"}

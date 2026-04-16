@@ -1,0 +1,1 @@
+{"attention_backend": "AttentionBackendEnum.FLASH_ATTN", "batch_invariant": true, "block_size": 16, "enable_prefix_caching": true, "engine_index": 0, "prefix_caching_disable_reason": null, "runner_type": "generate", "ts": 1776244008.7859952}

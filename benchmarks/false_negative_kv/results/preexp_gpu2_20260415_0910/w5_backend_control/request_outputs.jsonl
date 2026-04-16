@@ -1,0 +1,16 @@
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "0-940e2e07", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "1-b21fb2b3", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "2-a717100b", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "3-9cded52f", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "4-a7d2c5a8", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "5-9410a692", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "6-aad4915c", "variant": "warmup_generation"}
+{"num_cached_tokens": 0, "phase": "warmup", "phase_wall_time_s": 0.6099433898925781, "request_id": "7-a9c112eb", "variant": "warmup_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "8-a4ada929", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "9-9d3fbc24", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "10-b9928453", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "11-902f7c98", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "12-a0a7ebd4", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "13-aede5b85", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "14-a7080ea6", "variant": "control_generation"}
+{"num_cached_tokens": 1088, "phase": "control", "phase_wall_time_s": 0.08841514587402344, "request_id": "15-8ecd6959", "variant": "control_generation"}
